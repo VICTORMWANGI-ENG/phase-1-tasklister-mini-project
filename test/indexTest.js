@@ -10,4 +10,3 @@ describe("", () => {
     });
   });
 });
-git@github.com:VICTORMWANGI-ENG/phase-1-tasklister-mini-project.git
